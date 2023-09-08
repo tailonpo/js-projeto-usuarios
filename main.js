@@ -1,2 +1,1 @@
-alert("Oi")
-kshd 
+alert("Teste2")
